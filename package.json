@@ -1,0 +1,24 @@
+{
+  "name": "fetching-data",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "superagent": "^5.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joaoneves13/Fetching-data.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/joaoneves13/Fetching-data/issues"
+  },
+  "homepage": "https://github.com/joaoneves13/Fetching-data#readme"
+}
